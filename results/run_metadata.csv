@@ -1,0 +1,6 @@
+run_time,experiment,optimizer,rho,lr,seed,checkpoint_path,checkpoint_modified_time,checkpoint_sha256
+2026-05-19 00:18:57,sgd_seed42,sgd,,0.1,42,/content/drive/MyDrive/COMP5329ASS2/checkpoints/sgd_seed42_best.pt,2026-05-18 12:39:07,1ae17c00e93a972b43fa5b88a6dbe941e634bd782d0e665f637656337df064fc
+2026-05-19 00:18:57,adamw_seed42,adamw,,0.001,42,/content/drive/MyDrive/COMP5329ASS2/checkpoints/adamw_seed42_best.pt,2026-05-18 13:03:14,f34dbb97481bd83aefe4b552276972d92efe01c7901354a05b4b58208be59c4b
+2026-05-19 00:18:57,sam_rho001_seed42,sam,0.01,0.1,42,/content/drive/MyDrive/COMP5329ASS2/checkpoints/sam_rho001_seed42_best.pt,2026-05-18 13:47:34,66adce4490b6efb7bf8d6ff3ddfa725aa989d7a5e796bf5021d13a8c49d6ad01
+2026-05-19 00:18:57,sam_rho005_seed42,sam,0.05,0.1,42,/content/drive/MyDrive/COMP5329ASS2/checkpoints/sam_rho005_seed42_best.pt,2026-05-18 14:36:18,371a41c5d787dd169b0806886d5f6b3db2b927b00f93fa581ae953ea4be15513
+2026-05-19 00:18:57,sam_rho010_seed42,sam,0.1,0.1,42,/content/drive/MyDrive/COMP5329ASS2/checkpoints/sam_rho010_seed42_best.pt,2026-05-18 15:22:01,6b07fa49d6f03aed065e0eca90a83f887c9c7d5a887ae4ed46eb733b1f2a20cc

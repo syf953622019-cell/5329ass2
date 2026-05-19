@@ -1,0 +1,21 @@
+# Large datasets and downloaded archives
+CIFAR-10-C/
+CIFAR-10-C.tar
+data/
+*.tar
+*.tar.gz
+
+# Training artifacts
+checkpoints/
+*.pt
+*.pth
+
+# Python/Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
