@@ -5,11 +5,6 @@ data/
 *.tar
 *.tar.gz
 
-# Training artifacts
-checkpoints/
-*.pt
-*.pth
-
 # Python/Jupyter caches
 __pycache__/
 *.py[cod]
